@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/FirstTesting/FirstTesting.iml" filepath="$PROJECT_DIR$/FirstTesting/FirstTesting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Go_Projects.iml" filepath="$PROJECT_DIR$/Go_Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/SecondTesting/SecondTesting.iml" filepath="$PROJECT_DIR$/SecondTesting/SecondTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoFactorVerification/TwoFactorVerification.iml" filepath="$PROJECT_DIR$/TwoFactorVerification/TwoFactorVerification.iml" />
     </modules>
   </component>
 </project>
